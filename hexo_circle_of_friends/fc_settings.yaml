@@ -1,5 +1,5 @@
 # 友链页地址
-参数说明：
+# 参数说明：
 link：https://blog.joker2yue.top/link/
 theme：必填，友链页的获取策略。需要指定该页面的主题，可选参数如下（这些是目前支持的主题）：
   - common1: butterfly
